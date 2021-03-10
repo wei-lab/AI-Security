@@ -5,10 +5,14 @@ Inference region which inspires us to involve a margin-like inference informatio
 
 
 environment：
+
 python 3.7
+
 tensorflow 1.13
 
 
 code:
+
 sce.py  softmax corss-entropy loss, under adversarial attack
+
 I-SCE.py  Inference softmax corss-entropy loss,  being strong robustness
