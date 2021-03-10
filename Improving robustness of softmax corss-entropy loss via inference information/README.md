@@ -13,6 +13,16 @@ tensorflow 1.13
 
 ## code:
 
-sce.py  softmax corss-entropy loss, under adversarial attack
+SCE.py  
 
-I-SCE.py  Inference softmax corss-entropy loss,  being strong robustness
+run: python SCE.py  
+
+softmax corss-entropy loss train ,test, and adversarial attack
+ 
+
+I-SCE.py  
+
+run: python I-SCE.py  
+
+Inference softmax corss-entropy loss train ,test, and adversarial attack
+
